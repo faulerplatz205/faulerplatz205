@@ -64,7 +64,7 @@ A selection of projects, experiments and things I'm working on.
 ---
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=fauler_platz205&style=flat-square&color=blueviolet" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=faulerplatz205&style=flat-square&color=blueviolet" alt="Profile views" />
 </p>
 
 <p align="left">
